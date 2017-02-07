@@ -1,8 +1,8 @@
 <?php
 /*
 Plugin Name: UFM Social
-Description: A simple, fancy free twitter, instagram & Pinterest feed.
-Version: 0.1
+Description: A cached plugin which returns Facebook, Twitter and Instagram feeds as unformatted objects ready to use in your custom themes.
+Version: 1.0.0
 Author: John Thompson
 Author URI: http://www.ufmedia.net
 */
